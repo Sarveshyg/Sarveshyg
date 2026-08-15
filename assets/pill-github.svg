@@ -1,0 +1,10 @@
+<svg viewBox="0 0 130 30" width="130" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GITHUB">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.75" y="0.75" width="128.5" height="28.5" rx="14.25" fill="#161b22" stroke="url(#g)" stroke-width="1.5"/>
+  <text x="65" y="20" text-anchor="middle" font-family="Consolas,monospace" font-size="13" letter-spacing="3" fill="#e6edf3">GITHUB</text>
+</svg>
