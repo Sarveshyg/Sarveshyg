@@ -1,18 +1,22 @@
-<!-- hero: animated terminal svg -->
-<p align="center">
+<!-- hero: animated terminal svg (typewriter via SMIL, served as an img so GitHub renders it) -->
+<div align="center">
   <img src="assets/terminal-hero.svg" width="100%"/>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sarveshyg&color=blueviolet&style=flat-square"/>
-</p>
+</div>
+
+<br/>
 
 <!-- system snapshot -->
-<p align="center">
+<div align="center">
   <img src="assets/pill-system.svg" width="230"/>
-</p>
+</div>
 
-```
+```zsh
    ┌─┐┌─┐┌─┐┌─┐                  user@system
   ┌┴─┴┴─┴┴─┴┴─┴┐                 ─────────────
   │  SARVESH   │                 os    : computer engineering
@@ -23,10 +27,12 @@
                                   tools : git · linux
 ```
 
+<br/>
+
 <!-- stack -->
-<p align="center">
+<div align="center">
   <img src="assets/pill-stack.svg" width="120"/>
-</p>
+</div>
 
 <table align="center">
   <tr>
@@ -65,10 +71,12 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- github -->
-<p align="center">
+<div align="center">
   <img src="assets/pill-github.svg" width="130"/>
-</p>
+</div>
 
 <table align="center">
   <tr>
@@ -80,14 +88,16 @@
   </tr>
 </table>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarveshyg&theme=github-dark&hide_border=true&area=true"/>
-</p>
+</div>
+
+<br/>
 
 <!-- competitive programming -->
-<p align="center">
+<div align="center">
   <img src="assets/pill-cp.svg" width="330"/>
-</p>
+</div>
 
 <table align="center">
   <tr>
@@ -104,10 +114,12 @@
   </tr>
 </table>
 
+<br/>
+
 <!-- learning -->
-<p align="center">
+<div align="center">
   <img src="assets/pill-learning.svg" width="150"/>
-</p>
+</div>
 
 <table align="center">
   <tr>
@@ -137,31 +149,39 @@
   </tr>
 </table>
 
-<!-- facts -->
-<p align="center">
-  <img src="assets/pill-facts.svg" width="120"/>
-</p>
+<br/>
 
-```
+<!-- facts -->
+<div align="center">
+  <img src="assets/pill-facts.svg" width="120"/>
+</div>
+
+```zsh
 [ debug ]  I read the stack trace before the documentation.
 [ info  ]  My learning is 20% tutorials and 80% debugging.
 [ bench ]  I profile model latency more than I care to admit.
 ```
 
-<!-- connect -->
-<p align="center">
-  <img src="assets/pill-connect.svg" width="140"/>
-</p>
+<br/>
 
-<p align="center">
+<!-- connect -->
+<div align="center">
+  <img src="assets/pill-connect.svg" width="140"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/Sarveshyg"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:sarvesh.freelance.work@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="assets/footer-bar.svg" width="100%"/>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <sub>system ready — thanks for reading.</sub>
-</p>
+</div>
